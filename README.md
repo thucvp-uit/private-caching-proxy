@@ -1,2 +1,2 @@
-# private-caching-proxy
-A private caching proxy => support for http and https
+# simple-caching-proxy
+A very simple caching proxy => support for http and https
